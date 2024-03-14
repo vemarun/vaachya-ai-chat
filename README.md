@@ -8,4 +8,4 @@ This app is part of Vaachya AI. A demo app to explore NLP and LLM.
 Architecture - 
 
 
-![vaachya drawio](https://github.com/vemarun/vaachya-ai-chat/assets/25810241/c5bc6f86-69e6-479f-8d1e-5d897ece4e4d)
+![vaachya drawio](https://github.com/vemarun/vaachya-ai-chat/assets/25810241/beb788df-7e67-4091-96bf-e1e854bd21a5)
